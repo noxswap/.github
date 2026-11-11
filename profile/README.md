@@ -10,7 +10,7 @@ Pick a pair, send the exact amount shown and receive your coins straight to your
 - ⭐ Reviews: [Trustpilot](https://www.trustpilot.com/review/noxswap.io)
 - 𝕏 [@NoxSwap](https://x.com/NoxSwap) · Telegram [@NoxSwap](https://t.me/NoxSwap)
 
-In exceptional cases - large or flagged swaps can occasionally get an AML check by the exchange executing the swap.
-If you decline it (KYC), your deposit is refunded minus the network fee.
+In exceptional cases, large or flagged swaps can get an AML check by the exchange executing the swap.
+If you decline it, your deposit is refunded without KYC, minus the network fee.
 
 Support: info@noxswap.io
